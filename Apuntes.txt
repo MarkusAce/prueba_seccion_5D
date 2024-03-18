@@ -1,0 +1,21 @@
+git init -- crear carpeta de git
+
+git add -- añadir el archivo
+
+git add . -- añadir todos los archivos
+
+cd -- cambiar carpeta
+
+git commit - m "mensaje" --Añadir un commit (comentario)
+
+git log -- ver quien hizo un commit
+
+git status -- ver donde estoy
+
+git remote add origin "url" -- agregar una ruta para la nube
+
+git remote v -- ver donde esta el origen y el push
+
+git remote rm origin -- remover el origen
+
+git push origin master -- subir los archivos a la nube
